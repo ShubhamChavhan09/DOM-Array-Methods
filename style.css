@@ -46,3 +46,18 @@ h2 {
   border-bottom: 1px solid black;
   margin: 0 0 20px;
 }
+h3 {
+  background: #fff;
+  font-weight: 300;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid black;
+  margin: 20px 0 0;
+}
+.person {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
